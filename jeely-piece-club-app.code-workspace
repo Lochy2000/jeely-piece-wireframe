@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "jeely-piece-club-app",
+			"path": "."
+		},
+		{
+			"name": "event",
+			"path": "../jeely-piece-club/event"
+		},
+		{
+			"name": "our-impact",
+			"path": "../jeely-piece-club/our-impact"
+		},
+		{
+			"name": "what’s-on",
+			"path": "../jeely-piece-club/what’s-on"
+		},
+		{
+			"name": "about",
+			"path": "../jeely-piece-club/about"
+		},
+		{
+			"name": "home",
+			"path": "../jeely-piece-club/home"
+		}
+	],
+	"settings": {}
+}
